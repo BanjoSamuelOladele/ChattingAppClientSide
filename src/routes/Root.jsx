@@ -1,7 +1,7 @@
-import Header from "@/components/shared/Header";
-import Hero from "@/components/shared/Hero";
-import Mx1 from "@/components/shared/Mx1";
-import Mx2 from "@/components/shared/Mx2";
+// import Header from "@/components/shared/Header";
+// import Hero from "@/components/shared/Hero";
+// import Mx1 from "@/components/shared/Mx1";
+// import Mx2 from "@/components/shared/Mx2";
 import Register from "@/components/shared/Register";
 import { getEnsContract, getProvider } from "@/constants";
 import { isSupportedChain } from "@/lib/utils";
